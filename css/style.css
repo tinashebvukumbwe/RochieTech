@@ -1,0 +1,206 @@
+
+  body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+
+  }
+
+  main {
+    flex: 1 0 auto;
+  }
+      
+.lala{
+width:30%;
+}
+nav{
+  opacity:20%;
+}
+h5{
+  color:white;
+}
+
+
+.tin {
+    
+   background-image:  url("../img/4.jpg");
+   min-height: 300px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    border-radius: 16px;
+}
+
+
+
+p {
+  line-height: 2rem;
+}
+
+.sidenav-trigger {
+  color: #26a69a;
+}
+.lal{
+  background-image:  url("../img/1.jpg");
+  background-size: cover;
+  height:500px;
+
+}
+
+.la{
+  background-image:  url("../img/1.jpg");
+  background-size: cover;
+  height:650px;
+}
+.parallax-container{
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+.logo{
+  height:100px;
+}
+.parallax {
+    
+   background-image:  url("../img/3.jpg");
+   min-height: 300px; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width:100%;
+    margin-bottom: 20px;
+    margin-top: 5px;
+    border-radius: 16px;
+}
+footer.page-footer {
+  margin: 0;
+}
+
+
+
+
+/********about pagestyle**********/
+body{
+	margin:0;
+}
+section{
+	width:70%;
+	margin: 0 auto;
+}
+
+
+
+
+.wrapper{
+	padding-top: 0px;
+	
+	font-style: italic;
+	background-color: white;
+	background-image: url("../img/aero1.JPG");
+	height:500px;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+	padding-top: 40px;
+	
+}
+h1{
+	font-size: 90px;
+	text-align: center;
+	color:maroon;
+}
+
+.content{
+	display:flex;
+}
+
+
+	
+	
+
+
+.image{
+	height:325px;
+	width:500px;
+	margin-left:-180px;
+	margin-bottom: 50px;
+	margin-top:30px;
+
+}
+
+/**pictures on home pages**/
+.imge{
+
+
+	height:350px;
+	width:450px;
+	//margin-left:-180px;
+	padding:20px;
+}
+.ptag{
+
+}
+.primary{
+	display:flex;
+
+}
+
+
+
+
+
+
+.prd{
+	font-size:20px;
+	font-weight:bold;
+	color:navy;
+}
+h3{
+	text-align:center;
+}
+span{
+	font-size: 25px
+
+}
+
+ .icon {
+
+height:40px;
+}
+
+
+
+
+
